@@ -1,3 +1,8 @@
+# Author: Mudit Dixit
+# CompCELL
+# Organization: CSIR-CLRI
+# Year: 2023
+
 
 import numpy as np
 import matplotlib.pyplot as plt
