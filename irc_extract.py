@@ -7,6 +7,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import sys
+import re
 
 if len(sys.argv) < 2:
     print("Please provide a file name as an argument.")
